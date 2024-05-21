@@ -1,0 +1,16 @@
+{
+  "name": "smartmedchallenge",
+  "version": "1.0.0",
+  "description": "SmartMed Challenge for Frontend web using JavaScript and Cypress Framework.",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Rafael C. Pereira",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.9.0"
+  }
+}
