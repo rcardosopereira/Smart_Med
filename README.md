@@ -87,7 +87,7 @@ __package.json:__ is a manifest file for your Node.js project. It contains proje
 
 ####################################################################################
 ### Support🚀
-Please, if you have some questions, feel free to contact me. My e-mail is rcardosopereira@gmail.com and my mobile is (+351) 913 958 973.
+Please, if you have some questions, feel free to contact me. My e-mail is rcardosopereira@gmail.com.
 I am available to help you.
 Thank you very much ;-)
 ####################################################################################
